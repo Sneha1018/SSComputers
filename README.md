@@ -39,7 +39,7 @@ Move project to XAMPP htdocs folder
 bash
 Copy
 Edit
-cp -r online-computer-store /path-to-xampp/htdocs/
+cp -r onlinecomputerstore /path-to-xampp/htdocs/
 Start XAMPP
 
 Start Apache and MySQL
@@ -54,7 +54,7 @@ Import the database.sql file from the project
 
 Run the project
 
-Visit http://localhost/online-computer-store/ in your browser
+Visit http://localhost/onlinecomputerstore/ in your browser
 
 📁 Project Structure
 bash
@@ -79,4 +79,3 @@ This project is designed to run locally on XAMPP.
 
 It is a basic e-commerce prototype meant for learning and demo purposes.
 
-Security features such as CSRF protection and input sanitization should be improved before production use.
