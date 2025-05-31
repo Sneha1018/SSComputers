@@ -10,7 +10,7 @@ An online store where users can browse, search, and purchase laptops, desktops, 
 
 👤 User authentication (sign up, login)
 
-🧾 Add to cart and checkout functionality
+🧾 Add to Wishlist, Remove from Wishlist, Add to cart, Remove from cart and checkout functionality
 
 📦 Order management for users
 
